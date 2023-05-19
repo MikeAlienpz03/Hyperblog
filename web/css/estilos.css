@@ -1,0 +1,12 @@
+
+.Encabezado {
+    text-align: center;
+    color: black;
+    font-family: "Arial";
+}
+
+.Contenido {
+    text-align: left;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
