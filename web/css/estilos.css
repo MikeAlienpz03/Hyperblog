@@ -1,5 +1,5 @@
 body {
-    color: black;
+    color: red;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
@@ -40,8 +40,11 @@ body {
     font-weight:  bold;
     margin: 0;
     padding: 0.5cm;
+}
 
-    
-
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0 8em;
 
 }
