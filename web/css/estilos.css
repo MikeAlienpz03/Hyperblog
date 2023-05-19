@@ -1,5 +1,5 @@
 body {
-    color: blue;
+    color: black;
     text-align: center;
     font-family: "Arial";
     font-size: 18px;
@@ -26,8 +26,6 @@ body {
 #container p {
     text-align: left;
     text-justify: auto;
-    font-family: cursive;
-    color: tomato;
     font-size: 20px;
 }
 
