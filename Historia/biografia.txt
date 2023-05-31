@@ -9,3 +9,5 @@ Ahora hare un commit pero a la rama master y no a la main porque sino Mike no la
 Al final nunca lo vi en la rama master porque todos los cambios se hicieron para la rama main
 
 Bueno entonces buscaremos la manera de trabajar de esta manera....
+
+Pues no hay de otra mi chavo, saludos de Loky de gil.
