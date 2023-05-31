@@ -4,3 +4,4 @@ Esta es la nueva historia de Miguel Rodriguez en donde hablaremos sobre
 aspectos importantes de su vida.
 
 En este momento yo (loky_de_gil) clone el proyecto de mike y quiero colaborar escribiendo que soy su perrito
+Ahora hare un commit pero a la rama master y no a la main porque sino Mike no la ve...
