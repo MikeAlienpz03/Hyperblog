@@ -1,32 +1,10 @@
 body {
-    color: black;
+    color: #333;
     text-align: center;
     font-family: "Arial";
-    font-size: 18px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
-}
-
-#container {
-    width: 70%;
-    padding: 1em;
-    text-align: center;
-    border: 2px solid black;
-    margin:  0 auto;
-}
-
-
-#container h2 {
-    text-align: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
-    font-size: 25px;
-}
-
-#container p {
-    text-align: left;
-    text-justify: auto;
-    font-size: 20px;
 }
 
 #cabecera {
@@ -45,4 +23,34 @@ body {
     font-weight: normal;
     font-size: 0 8em;
 
+}
+
+#container {
+    width: 70%;
+    padding: 0;
+    text-align: left ;
+    border: 2px solid #ddd;
+    margin:  0 auto;
+}
+
+
+#container h2 {
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 25px;
+}
+
+#container p {
+    text-align: left;
+    text-justify: auto;
+    font-size: 20px;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
