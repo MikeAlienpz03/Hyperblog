@@ -13,6 +13,7 @@ Un blog increible para el curso de** Git Y Github** (https://platzi.com/cursos/g
 - Mi primer commit
 - Mi primer pull y push
 - Mi primer pull requests
+- Y muchas otras cosas que me encantaron
 
 Y como este **readme fue una practica** unicamente y lo llegaste a encontrar ten encuenta que lo que se hizo no muestra mis capacidades como programador solo fue un ejercicio simple para aprender. 
 
