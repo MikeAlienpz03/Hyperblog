@@ -4,7 +4,7 @@ Un blog increible para el curso de** Git Y Github** (https://platzi.com/cursos/g
 
 >El curso de Git y Github de Platzi es lo mas importante que tienes que aprender y poner en practica.
 
-##En este curso he aprendido:
+#En este curso he aprendido:
 
 - Muchos comandos de Git
 - Flujo de trabajo en Github
